@@ -4,3 +4,4 @@
 
 ## Social 
 - Discord: @soulightric
+<img href="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.png">
