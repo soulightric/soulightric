@@ -4,4 +4,4 @@
 
 ## Social 
 - Discord: @soulightric
-<img href="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.png">
+![alt text]([http://url/to/img.png](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.png))
