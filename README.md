@@ -5,3 +5,6 @@
 ## Social 
 - Discord: @soulightric
 - Myanimelist: soulightric
+
+## Hobby
+- Watching Anime
