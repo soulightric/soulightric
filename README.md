@@ -9,4 +9,4 @@
 ## Hobby
 - Watching Anime
 
-https://img.shields.io/github/followers/USERNAME?style=social
+https://img.shields.io/github/followers/soulightric?style=social
