@@ -2,6 +2,9 @@
 - I use Arch Linux BTW.
 - I use vscode
 
+## Skill
+- Alight Motion
+
 ## Social 
 <p align="center">
 <img src="https://img.shields.io/github/followers/soulightric?style=social"/>
