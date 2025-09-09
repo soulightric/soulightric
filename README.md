@@ -8,3 +8,5 @@
 
 ## Hobby
 - Watching Anime
+
+https://img.shields.io/github/followers/USERNAME?style=social
