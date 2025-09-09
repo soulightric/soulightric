@@ -11,6 +11,6 @@
 <p align="center">
 <img src="https://img.shields.io/github/followers/soulightric?style=social"/>
 <img src="https://img.shields.io/twitter/follow/soulightric?style=social"/>
-<img src="https://img.shields.io/youtube/channel/subscribers/etherthink?style=social"/>
+<img src="https://img.shields.io/youtube/channel/subscribers/UCCdW5ISUbmNzFj6EOtr-DnQstyle=social"/>
 </p>
 
