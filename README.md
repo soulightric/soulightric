@@ -1,6 +1,7 @@
 ## About me(me)
 - I use Arch Linux BTW.
-- I use vscode
+- I use VScode
+- I am Student
 
 ## Skill
 - Alight Motion
