@@ -1,3 +1,6 @@
+<div>
+ <h1><b>About me</b></h1>
+</div>
 ## About me(me)
 - I use Arch Linux BTW.
 - I use VScode
