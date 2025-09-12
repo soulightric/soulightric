@@ -1,9 +1,6 @@
 <div align="center">
  <h1><b>About me</b></h1>
  <li>
-  I use Arch Linux BTW.
- </li>
- </li>
 </div>
 
 - I use Arch Linux BTW.
