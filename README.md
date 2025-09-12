@@ -1,6 +1,5 @@
 <div align="center">
  <h1><b>About me</b></h1>
- <li>
 </div>
 
 - I use Arch Linux BTW.
