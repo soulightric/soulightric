@@ -5,6 +5,9 @@
 
 ## Skill
 - Alight Motion
+<div>
+ <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /></a>
+</div>
 
 ## Social 
 <p align="center">
