@@ -4,7 +4,7 @@
 - I am Student
 
 ## Skill
-<div>
+<div align="center">
  <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /></a>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
 </div>
