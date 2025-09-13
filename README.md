@@ -15,7 +15,7 @@ just an ordinary person who is interested in learning many things...
 
  <h1><b>Social</b></h1>
 
- <p align="center">
+ <p>
  <img src="https://img.shields.io/twitter/follow/soulightric?style=social"/>
  <img src="https://img.shields.io/youtube/channel/subscribers/UCCdW5ISUbmNzFj6EOtr-DnQ"/>
  </p>
