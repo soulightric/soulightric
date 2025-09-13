@@ -7,7 +7,7 @@ just an ordinary person who is interested in learning many things...
 - I use VScode
 - I am Student
 
-<div align="center">
+<div>
  <h1><b>Skill</b></h1>
  
  <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /></a>
@@ -15,10 +15,10 @@ just an ordinary person who is interested in learning many things...
 
  <h1><b>Social</b></h1>
 
-<p align="center">
-<img src="https://img.shields.io/twitter/follow/soulightric?style=social"/>
-<img src="https://img.shields.io/youtube/channel/subscribers/UCCdW5ISUbmNzFj6EOtr-DnQ"/>
-</p>
+ <p align="center">
+ <img src="https://img.shields.io/twitter/follow/soulightric?style=social"/>
+ <img src="https://img.shields.io/youtube/channel/subscribers/UCCdW5ISUbmNzFj6EOtr-DnQ"/>
+ </p>
  
  <h1><b>Hobby</b></h1>
 </div>
