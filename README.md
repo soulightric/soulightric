@@ -6,6 +6,7 @@ just an ordinary person who is interested in learning many things...
 - I use Arch Linux BTW.
 - I use VScode
 - I am Student
+- I am Youtuber
 
 <div>
  <h1><b>Skill</b></h1>
