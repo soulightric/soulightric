@@ -1,9 +1,11 @@
 ![image alt](assets/header.png)
 
- <p align="center>
+<div align="center">
+ <p>
  <img src="https://img.shields.io/twitter/follow/soulightric?style=social"/>
  <img src="https://img.shields.io/youtube/channel/subscribers/UCCdW5ISUbmNzFj6EOtr-DnQ"/>
  </p>
+</div>
 
 <div align="center">
  <h1><b>About me</b></h1>
