@@ -29,3 +29,5 @@ just an ordinary person who is interested in learning many things...
 - Watching Anime
 - Eat
 - Sleep
+
+![snake gif](https://github.com/soulightric/soulightric/blob/output/github-snake-dark.svg)
