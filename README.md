@@ -1,4 +1,4 @@
-![image alt](assets/header.png)
+![image alt](assets/banner.png)
 
 <div align="center">
  <p>
