@@ -1,4 +1,4 @@
-![image alt](assets/banner.png)
+![image alt](assets/tampilan.png)
 
 <div align="center">
  <p>
