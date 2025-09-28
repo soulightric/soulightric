@@ -30,5 +30,7 @@ just an ordinary person who is interested in learning many things...
 - Eat
 - Sleep
 <div align="center">
+ 
  ![snake gif](https://github.com/soulightric/soulightric/blob/output/github-snake-dark.svg)
+ 
 </div>
