@@ -12,8 +12,8 @@
 </div>
 
 just an ordinary person who is interested in learning many things...
-- I use Arch Linux BTW.
-- I use VScode
+- CEO in my life
+- I use Arch Linux BTW
 - I am Student
 - I am Youtuber
 
