@@ -14,7 +14,6 @@
 just an ordinary person who is interested in learning many things...
 - CEO in my life
 - I use Arch Linux BTW
-- I am Student
 - I am Youtuber
 
 <div>
@@ -29,6 +28,8 @@ just an ordinary person who is interested in learning many things...
 - Watching Anime
 - Eat
 - Sleep
+- Repeat
+
 <div align="center">
  
  ![snake gif](https://github.com/soulightric/soulightric/blob/output/github-snake-dark.svg)
