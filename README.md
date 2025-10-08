@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
- <h1><b>About mewww</b></h1>
+ <h1><b>About me</b></h1>
 </div>
 
 just an ordinary person who is interested in learning many things...
