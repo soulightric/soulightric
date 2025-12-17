@@ -13,7 +13,6 @@
 
 just an ordinary person who is interested in learning many things...
 - CEO in my life
-- I use Arch Linux BTW
 - I am Youtuber
  
  <h1><b>Hobby</b></h1>
