@@ -18,6 +18,7 @@ just an ordinary person who is interested in learning many things...
  <h1><b>Hobby</b></h1>
 </div>
 
+- Wake Up
 - Watching Anime
 - Eat
 - Sleep
