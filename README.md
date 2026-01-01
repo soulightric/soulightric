@@ -14,6 +14,8 @@
 just an ordinary person who is interested in learning many things...
 - CEO in my life
 - I am Youtuber
+- GIS Engineer
+- Network Engineer
  
  <h1><b>Hobby</b></h1>
 </div>
