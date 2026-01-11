@@ -4,6 +4,7 @@
  <p>
  <img src="https://img.shields.io/twitter/follow/soulightric?style=social"/>
  <img src="https://img.shields.io/youtube/channel/subscribers/UCCdW5ISUbmNzFj6EOtr-DnQ"/>
+ <a href="" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=soulightic.soulightic&left_text=Views"/></a>
  </p>
 </div>
 
@@ -13,16 +14,12 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=soulightic.soulightic&left_text=Views"/></a>
-</div>
-
 ###
 
 <p align="left">I'm Cujud and I am from Indonesia.
-  <br><br>- 🔭 I’m currently a student in Computer Science, where I primarily learn Rust, C++, and more.
-  <br>- 📚 I'm currently learning and coding in Rust, C++, Python, Next js and more. I also have been working on a web dev in Next js.
-  <br>- ⚡ In my free time I Upload video (I'm posting in my youtube channel).
+  <br><br>- I’m currently a student in Computer Science, where I primarily learn Rust, C++, and more.
+  <br>- I'm currently learning and coding in Rust, C++, Python, Next js and more. I also have been working on a web dev in Next js.
+  <br>- In my free time I Upload video (I'm posting in my youtube channel).
 </p>
 
 ###
