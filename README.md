@@ -61,6 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"/><img width="12"/>
 
 ###
+<div align="left">
+ <img src="assets/Etherthink.ico"  height="50" alt="etherthink logo"/><img/>
+
+###
 
 <div align="center">
  
