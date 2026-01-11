@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/><img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo"/><img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"/><img width="12"/>
-  <img src="https://img.logokit.com/routerboard.com" height="40" alt="mikrotik logo"/><img width="12"/>
+  <img src="assets/Mikrotik.svg"  width="40" alt="mikrotik logo"/><img/>
 </div>
 
 ###
