@@ -4,7 +4,7 @@
  <p>
  <img src="https://img.shields.io/twitter/follow/soulightric?style=social"/>
  <img src="https://img.shields.io/youtube/channel/subscribers/UCCdW5ISUbmNzFj6EOtr-DnQ"/>
- <a href="" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=soulightic.soulightic&left_text=Views"/></a>
+ <a href="" target="_blanhwuwk"><img src="https://visitor-badge.laobi.icu/badge?page_id=soulightic.soulightic&left_text=Views"/></a>
  </p>
 </div>
 
