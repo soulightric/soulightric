@@ -20,6 +20,7 @@
   <br><br>- I’m currently a student in Computer Science, where I primarily learn Rust, C++, and more.
   <br>- I'm currently learning and coding in Rust, C++, Python, Next js and more. I also have been working on a web dev in Next js.
   <br>- In my free time I Upload video (I'm posting in my youtube channel).
+  <br>- Nino Nakano is my wife btw
 </p>
 
 ###
