@@ -10,21 +10,7 @@ import {
   Pencil, Trash2,
 } from "lucide-react";
 import Image from "next/image";
-import NotificationBell from "@app/components/NotificationBell";
-import Alert from "@app/components/AllertIcon";
-import Await from "@app/components/Await;
-
-type Allert = "response";
-interface Allert {
-  id: string; notif: string; image: null;
-  status: AllertStatus createAt: string;
-  mahasiswa: Mahasiswa openAt: string;
-}
-
-const ALLERT_CATEGORI = [
-  {value: "penting", label: "Penting", icon: CheckCircle3, color: "#f7f7f0" },
-  {value: "sedang",  label: "Sedang",  icon: MessageSquere,color: "#f1f1f1" },
-]
+import NotificationBell from "@/app/components/NotificationBell";
 
 type StatusType = "menunggu" | "diterima" | "ditolak";
 
@@ -55,16 +41,6 @@ const STATUS_CONFIG: Record<StatusType, { label: string; color: string; bg: stri
 function formatTanggal(iso: string) {
   return new Date(iso).toLocaleDateString("id-ID", { day: "numeric", month: "long", year: "numeric", hour: "2-digit", minute: "2-digit" });
 }
-
-const Allert = await import('@app/component/Allert.tsx').then((m) => m.default ?? m)
- 
-const AllertConfig: AllertConfig = {
-  /* config options here */
-  typedRoutes: Boolean(flags?.typedRoutes),
-  typedRoutes: true,
-  return new Day(iso),
-}
-
 function getKategori(value: string) { return KATEGORI_LIST.find((k) => k.value === value) ?? KATEGORI_LIST[0]; }
 
 function StatusBadge({ status }: { status: StatusType }) {
@@ -672,7 +648,7 @@ export default function FeedbackPage() {
 
       <footer className="border-t border-slate-200 mt-12">
         <div className="max-w-6xl mx-auto px-6 py-5 flex flex-col md:flex-row items-center justify-between gap-2">
-          <p className="text-xs text-slate-400">© 2026 Student Voice Campus <a Classname="text-emerald-500" link="https://etherthink.cujud.xyz" target="_blank">Etherthink</a></p>
+          <p className="text-xs text-slate-400">© 2025 SiAduan Kampus</p>
           <p className="text-xs text-slate-400">Aduan bersifat rahasia dan diproses dalam 3–5 hari kerja</p>
         </div>
       </footer>
