@@ -1,4 +1,7 @@
 <!--[image alt](assets/tampilan.png)-->
+<div align="center">
+ <h1><b>About me</b></h1>
+</div>
 
 <div align="center">
  <p>
@@ -8,13 +11,7 @@
  </p>
 </div>
 
-<div align="center">
- <h1><b>About me</b></h1>
-</div>
-
 <br clear="both">
-
-###
 
 <p align="left">I'm Cujud and I am from Indonesia.
   <br><br>- I’m currently a student in Computer Science, where I primarily learn Rust, C++, and more.
