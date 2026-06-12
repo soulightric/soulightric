@@ -56,9 +56,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nest logo"/><img width="12"/>
 
 ###
-<div align="left">
+<!-- <div align="left">
  <img src="assets/Etherthink.ico"  height="50" alt="etherthink logo"/><img/>
-
+-->
 ###
 
 <div align="center">
