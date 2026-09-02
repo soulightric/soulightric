@@ -22,7 +22,6 @@ Computer Science student learning to become a **CEO**, while also exploring **Ne
 ![MikroTik](https://img.shields.io/badge/-MikroTik-293239?style=flat-square)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Ruijie](https://img.shields.io/badge/-Ruijie-D22B2B?style=flat-square)
-
 <br>
 
 ## Connect with Me
