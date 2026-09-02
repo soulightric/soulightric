@@ -1,65 +1,37 @@
-<!--[image alt](assets/tampilan.png)-->
-<div align="center">
- <h1><b>About me</b></h1>
-</div>
+# Hi, I'm Fikri Sujud
 
-<div align="center">
- <p>
- <img src="https://img.shields.io/twitter/follow/soulightric?style=social"/>
- <a href="" target="_blanhwuwk"><img src="https://visitor-badge.laobi.icu/badge?page_id=soulightic.soulightic&left_text=Views"/></a>
- </p>
-</div>
+Computer Science student learning to become a **CEO**, while also exploring **Network Engineer** and **Web Development**.
 
-<br clear="both">
+## Currently Learning
+- Network Engineering fundamentals (routing, switching, network design)
+- Full-stack web development
+- Leadership
 
-<p align="left">I'm Cujud and I am from Indonesia.
-  <br><br>- I’m currently a student in Computer Science, where I primarily learn Rust, C++, and more.
-  <br>- I'm currently learning and coding in Rust, C++, Python, Next js and more. I also have been working on a web dev in Next js.
-  <br>- In my free time I Upload video (I'm posting in my youtube channel).
-  <br>- Nino Nakano is my wife btw
-</p>
+## Tech Stack
 
-###
+**Programming & Web**
+<br>
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-<h3 align="left">🛠 Languages and tools</h3>
+**Networking**
+<br>
+![MikroTik](https://img.shields.io/badge/-MikroTik-293239?style=flat-square)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Ruijie](https://img.shields.io/badge/-Ruijie-D22B2B?style=flat-square)
 
-###
-<!-- List of all icons: https://github.com/devicons/devicon/tree/master/icons | you can choose between original, and plain -->
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo"/><img width="12"/>
-</div>
+## Connect with Me
+- GitHub: [@soulightric](https://github.com/soulightric)
+- Email: fikrizeronine@gmail.com
+- Porto: [Fikri Sujud Portofolio](https://fs.etherthink.xyz)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"/><img width="12"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="40" alt="kali logo"/><img width="12"/>
-  <img src="assets/Mikrotik.svg"  width="40" alt="mikrotik logo"/><img/>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"/><img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nest logo"/><img width="12"/>
-
-###
-<!-- <div align="left">
- <img src="assets/Etherthink.ico"  height="50" alt="etherthink logo"/><img/>
--->
-###
+---
+Thanks for visiting my profile!
 
 <div align="center">
  
