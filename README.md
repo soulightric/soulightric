@@ -1,4 +1,4 @@
-# Hi, I'm Fikri Sujud
+# Hi, I'm Fikri Sujud \ Etherthink
 
 Computer Science student learning to become a **CEO**, while also exploring **Network Engineer** and **Web Development**.
 
